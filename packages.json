@@ -1,6 +1,7 @@
 [
     {
         "package": "pretestcad",
-        "url": "https://github.com/jauntyjjs/pretestcad"
+        "url": "https://github.com/jauntyjjs/pretestcad",
+        "branch": "main"
     }
 ]
